@@ -28,3 +28,13 @@ MRI brain image dataset for Alzheimer's Disease detection.
 
 ## Author
 Yash Upaskar
+
+
+## Results
+
+- Training Accuracy: 99.99%
+- Model: Convolutional Neural Network (CNN)
+- Dataset: MRI Brain Images
+- Task: Alzheimer's Disease Classification
+
+- 
